@@ -1,5 +1,5 @@
 class Solution:
     def divide(self, dividend: int, divisor: int) -> int:
-        if trunc(dividend/divisor)>2**31 -1:
+        if int(dividend*(divisor**(-1)))>2**31 -1:
             return 2**31 -1
-        return trunc(dividend/divisor) 
+        return int(dividend*(divisor**(-1)))
