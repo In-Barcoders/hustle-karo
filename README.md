@@ -4,6 +4,7 @@ In this program, we will add links of two questions on daily basis which will be
 
 ## Question links
 
+- 02-05-21 [Question1](https://leetcode.com/problems/multiply-strings/) [Question2](https://leetcode.com/problems/trapping-rain-water/)
 - 01-05-21 [Question1](https://leetcode.com/problems/valid-sudoku/) [Question2](https://leetcode.com/problems/sudoku-solver/)
 - 30-04-21 [Question1](https://leetcode.com/problems/longest-valid-parentheses/) [Question2](https://leetcode.com/problems/search-in-rotated-sorted-array/)
 - 29-04-21 [Question1](https://leetcode.com/problems/reverse-nodes-in-k-group/) [Question2](https://leetcode.com/problems/merge-k-sorted-lists/)
