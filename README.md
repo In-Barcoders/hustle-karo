@@ -4,7 +4,10 @@ In this program, we will add links of two questions on daily basis which will be
 
 ## Question links
 
-- 05-04-21 [Question1](https://leetcode.com/problems/jump-game/) [Question2](https://leetcode.com/problems/spiral-matrix/)
+- 07-05-21 [Question1](https://leetcode.com/problems/spiral-matrix-ii) [Question2](https://leetcode.com/problems/rotate-list)
+- 07-05-21 [Question1](https://leetcode.com/problems/insert-interval) [Question2](https://leetcode.com/problems/length-of-last-word)
+- 06-05-21 [Question1](https://leetcode.com/problems/n-queens-ii/) [Question2](https://leetcode.com/problems/merge-intervals)
+- 05-05-21 [Question1](https://leetcode.com/problems/jump-game/) [Question2](https://leetcode.com/problems/spiral-matrix/)
 - 04-05-21 [Question1](https://leetcode.com/problems/maximum-subarray/) [Question2](https://leetcode.com/problems/n-queens/)
 - 03-05-21 [Question1](https://leetcode.com/problems/permutations/) [Question2](https://leetcode.com/problems/rotate-image/)
 - 02-05-21 [Question1](https://leetcode.com/problems/multiply-strings/) [Question2](https://leetcode.com/problems/trapping-rain-water/)
