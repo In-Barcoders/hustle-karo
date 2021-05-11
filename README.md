@@ -4,6 +4,9 @@ In this program, we will add links of two questions on daily basis which will be
 
 ## Question links
 
+- 11-05-21 [Question1](https://leetcode.com/problems/add-binary/) [Question2](https://leetcode.com/problems/text-justification/)
+- 10-05-21 [Question1](https://leetcode.com/problems/valid-number/) [Question2](https://leetcode.com/problems/plus-one/)
+- 09-05-21 [Question1](https://leetcode.com/problems/permutation-sequence/) [Question2](https://leetcode.com/problems/minimum-path-sum/)
 - 08-05-21 [Question1](https://leetcode.com/problems/spiral-matrix-ii) [Question2](https://leetcode.com/problems/rotate-list)
 - 07-05-21 [Question1](https://leetcode.com/problems/insert-interval) [Question2](https://leetcode.com/problems/length-of-last-word)
 - 06-05-21 [Question1](https://leetcode.com/problems/n-queens-ii/) [Question2](https://leetcode.com/problems/merge-intervals)
